@@ -3,4 +3,4 @@
  
  ```curl $URL -o outfile```
  
-***Due to technical issues not all files were uploaded. A temporary google drive link will follow shortly***
+***Due to technical issues not all files were uploaded. ['https://drive.google.com/drive/folders/1dSx_zxGmygWaMiJz2ii23cjHa-nYFnzs?usp=sharing'](Click here for the temporary google drive link)***
